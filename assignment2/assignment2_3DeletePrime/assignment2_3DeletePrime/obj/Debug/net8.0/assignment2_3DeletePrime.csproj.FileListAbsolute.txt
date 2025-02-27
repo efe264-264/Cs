@@ -1,0 +1,14 @@
+D:\VSrepos\assignment2_3DeletePrime\assignment2_3DeletePrime\bin\Debug\net8.0\assignment2_3DeletePrime.exe
+D:\VSrepos\assignment2_3DeletePrime\assignment2_3DeletePrime\bin\Debug\net8.0\assignment2_3DeletePrime.deps.json
+D:\VSrepos\assignment2_3DeletePrime\assignment2_3DeletePrime\bin\Debug\net8.0\assignment2_3DeletePrime.runtimeconfig.json
+D:\VSrepos\assignment2_3DeletePrime\assignment2_3DeletePrime\bin\Debug\net8.0\assignment2_3DeletePrime.dll
+D:\VSrepos\assignment2_3DeletePrime\assignment2_3DeletePrime\bin\Debug\net8.0\assignment2_3DeletePrime.pdb
+D:\VSrepos\assignment2_3DeletePrime\assignment2_3DeletePrime\obj\Debug\net8.0\assignment2_3DeletePrime.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSrepos\assignment2_3DeletePrime\assignment2_3DeletePrime\obj\Debug\net8.0\assignment2_3DeletePrime.AssemblyInfoInputs.cache
+D:\VSrepos\assignment2_3DeletePrime\assignment2_3DeletePrime\obj\Debug\net8.0\assignment2_3DeletePrime.AssemblyInfo.cs
+D:\VSrepos\assignment2_3DeletePrime\assignment2_3DeletePrime\obj\Debug\net8.0\assignment2_3DeletePrime.csproj.CoreCompileInputs.cache
+D:\VSrepos\assignment2_3DeletePrime\assignment2_3DeletePrime\obj\Debug\net8.0\assignment2_3DeletePrime.dll
+D:\VSrepos\assignment2_3DeletePrime\assignment2_3DeletePrime\obj\Debug\net8.0\refint\assignment2_3DeletePrime.dll
+D:\VSrepos\assignment2_3DeletePrime\assignment2_3DeletePrime\obj\Debug\net8.0\assignment2_3DeletePrime.pdb
+D:\VSrepos\assignment2_3DeletePrime\assignment2_3DeletePrime\obj\Debug\net8.0\assignment2_3DeletePrime.genruntimeconfig.cache
+D:\VSrepos\assignment2_3DeletePrime\assignment2_3DeletePrime\obj\Debug\net8.0\ref\assignment2_3DeletePrime.dll

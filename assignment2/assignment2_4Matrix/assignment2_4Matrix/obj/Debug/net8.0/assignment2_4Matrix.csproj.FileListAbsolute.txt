@@ -1,0 +1,14 @@
+D:\VSrepos\assignment2_4Matrix\assignment2_4Matrix\bin\Debug\net8.0\assignment2_4Matrix.exe
+D:\VSrepos\assignment2_4Matrix\assignment2_4Matrix\bin\Debug\net8.0\assignment2_4Matrix.deps.json
+D:\VSrepos\assignment2_4Matrix\assignment2_4Matrix\bin\Debug\net8.0\assignment2_4Matrix.runtimeconfig.json
+D:\VSrepos\assignment2_4Matrix\assignment2_4Matrix\bin\Debug\net8.0\assignment2_4Matrix.dll
+D:\VSrepos\assignment2_4Matrix\assignment2_4Matrix\bin\Debug\net8.0\assignment2_4Matrix.pdb
+D:\VSrepos\assignment2_4Matrix\assignment2_4Matrix\obj\Debug\net8.0\assignment2_4Matrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSrepos\assignment2_4Matrix\assignment2_4Matrix\obj\Debug\net8.0\assignment2_4Matrix.AssemblyInfoInputs.cache
+D:\VSrepos\assignment2_4Matrix\assignment2_4Matrix\obj\Debug\net8.0\assignment2_4Matrix.AssemblyInfo.cs
+D:\VSrepos\assignment2_4Matrix\assignment2_4Matrix\obj\Debug\net8.0\assignment2_4Matrix.csproj.CoreCompileInputs.cache
+D:\VSrepos\assignment2_4Matrix\assignment2_4Matrix\obj\Debug\net8.0\assignment2_4Matrix.dll
+D:\VSrepos\assignment2_4Matrix\assignment2_4Matrix\obj\Debug\net8.0\refint\assignment2_4Matrix.dll
+D:\VSrepos\assignment2_4Matrix\assignment2_4Matrix\obj\Debug\net8.0\assignment2_4Matrix.pdb
+D:\VSrepos\assignment2_4Matrix\assignment2_4Matrix\obj\Debug\net8.0\assignment2_4Matrix.genruntimeconfig.cache
+D:\VSrepos\assignment2_4Matrix\assignment2_4Matrix\obj\Debug\net8.0\ref\assignment2_4Matrix.dll
