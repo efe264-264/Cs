@@ -14,15 +14,12 @@ namespace assignment3
             {
                 ShapeCreator.CreateFigure("Rectangle", 3, 4),
                 ShapeCreator.CreateFigure("Square", 5),
-                ShapeCreator.CreateFigure("Triangle", 4, 2)
-            };
+                ShapeCreator.CreateFigure("Triangle", 4, 2) };
 
             foreach (var figure in figures)
             {
-                Console.WriteLine($" {figure.GetType().Name}的面积是{figure.CalculateArea()}");
-            }
-        }
-    }
+                Console.WriteLine($" {figure.GetType().Name}的面积是{figure.CalculateArea()}"); }
+        } }
 
     public interface IShape
     {
@@ -37,8 +34,7 @@ namespace assignment3
         public RectangularFigure(int length, int breadth)
         {
             this.Length = length;
-            this.Breadth = breadth;
-        }
+            this.Breadth = breadth; }
 
         public virtual double CalculateArea()
         {
@@ -50,8 +46,7 @@ namespace assignment3
     {
         public RegularQuadrilateral(int sideLength)
             : base(sideLength, sideLength)
-        {
-        }
+        { }
     }
 
     class TriangularFigure : IShape
@@ -62,14 +57,11 @@ namespace assignment3
         public TriangularFigure(int baseLength, int height)
         {
             this.BaseLength = baseLength;
-            this.Height = height;
-        }
+            this.Height = height; }
 
         public double CalculateArea()
         {
-            return this.BaseLength * this.Height / 2.0;
-        }
-    }
+            return this.BaseLength * this.Height / 2.0; } }
 
     class ShapeCreator
     {
@@ -97,7 +89,5 @@ namespace assignment3
             {
                 throw new ArgumentException(
                     $"Invalid parameter count. Requires {requiredCount} values");
-            }
-        }
-    }
+            } }}
 }
