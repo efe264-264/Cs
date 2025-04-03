@@ -1,0 +1,15 @@
+E:\LINsAPP\Csharp_programming-master\01 Homework Project\Homework 6\OrderManagementWinForms\bin\Debug\OrderManagementWinForms.exe.config
+E:\LINsAPP\Csharp_programming-master\01 Homework Project\Homework 6\OrderManagementWinForms\bin\Debug\OrderManagementWinForms.exe
+E:\LINsAPP\Csharp_programming-master\01 Homework Project\Homework 6\OrderManagementWinForms\bin\Debug\OrderManagementWinForms.pdb
+E:\LINsAPP\Csharp_programming-master\01 Homework Project\Homework 6\OrderManagementWinForms\bin\Debug\Homework 5.exe
+E:\LINsAPP\Csharp_programming-master\01 Homework Project\Homework 6\OrderManagementWinForms\bin\Debug\Homework 5.pdb
+E:\LINsAPP\Csharp_programming-master\01 Homework Project\Homework 6\OrderManagementWinForms\bin\Debug\Homework 5.exe.config
+E:\LINsAPP\Csharp_programming-master\01 Homework Project\Homework 6\OrderManagementWinForms\obj\Debug\OrderManagementWinForms.csproj.AssemblyReference.cache
+E:\LINsAPP\Csharp_programming-master\01 Homework Project\Homework 6\OrderManagementWinForms\obj\Debug\OrderManagementWinForms.Form1.resources
+E:\LINsAPP\Csharp_programming-master\01 Homework Project\Homework 6\OrderManagementWinForms\obj\Debug\OrderManagementWinForms.OrderForm.resources
+E:\LINsAPP\Csharp_programming-master\01 Homework Project\Homework 6\OrderManagementWinForms\obj\Debug\OrderManagementWinForms.Properties.Resources.resources
+E:\LINsAPP\Csharp_programming-master\01 Homework Project\Homework 6\OrderManagementWinForms\obj\Debug\OrderManagementWinForms.csproj.GenerateResource.cache
+E:\LINsAPP\Csharp_programming-master\01 Homework Project\Homework 6\OrderManagementWinForms\obj\Debug\OrderManagementWinForms.csproj.CoreCompileInputs.cache
+E:\LINsAPP\Csharp_programming-master\01 Homework Project\Homework 6\OrderManagementWinForms\obj\Debug\OrderMan.CD93A313.Up2Date
+E:\LINsAPP\Csharp_programming-master\01 Homework Project\Homework 6\OrderManagementWinForms\obj\Debug\OrderManagementWinForms.exe
+E:\LINsAPP\Csharp_programming-master\01 Homework Project\Homework 6\OrderManagementWinForms\obj\Debug\OrderManagementWinForms.pdb
