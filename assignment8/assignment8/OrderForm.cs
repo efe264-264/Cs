@@ -1,7 +1,7 @@
-﻿// OrderForm.cs
-using Homework_8;
-using System;
 using System.Windows.Forms;
+using assignment8;
+using System;
+
 
 namespace OrderManagementSystem
 {
@@ -40,8 +40,8 @@ namespace OrderManagementSystem
                 string.IsNullOrWhiteSpace(tbArticle.Text) ||
                 !decimal.TryParse(tbSubtotal.Text, out parsedSubtotal))
             {
-                MessageBox.Show("请完整填写所有必填项，并确保金额格式正确。",
-                    "数据校验失败", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                MessageBox.Show("请注意格式及完整性",
+                    "查询失败", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return;
             }
 
