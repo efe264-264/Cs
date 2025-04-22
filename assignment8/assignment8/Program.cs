@@ -122,10 +122,10 @@ namespace EnterpriseTransactionSystem
         private void ValidateTransaction(ClientTransaction transaction)
         {
             if (string.IsNullOrWhiteSpace(transaction.ClientIdentifier))
-                throw new ArgumentException("客户信息必须填写");
+                throw new ArgumentException("缂哄皯瀹㈡埛");
 
             if (!transaction.Entries.Any())
-                throw new ArgumentException("交易条目不能为空");
+                throw new ArgumentException("缂哄皯淇℃伅");
         }
 
         public void Dispose() => _context.Dispose();
